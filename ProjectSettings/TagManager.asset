@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - Star
+  - Water
+  - Checkpoint
+  - Death
+  - Switch
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - Player1
+  - Player2
+  - Camera Bounds
+  - Platform
+  - Moving Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3930872953
+    locked: 0
+  - name: Decoration
+    uniqueID: 3765956905
+    locked: 0
+  - name: Torches
+    uniqueID: 737236293
+    locked: 0
+  - name: Platforms
+    uniqueID: 3863594727
+    locked: 0
+  - name: Ground
+    uniqueID: 2368072157
+    locked: 0
+  - name: Lava
+    uniqueID: 2149544401
+    locked: 0
+  - name: Player
+    uniqueID: 3318250423
+    locked: 0

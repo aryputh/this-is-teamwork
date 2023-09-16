@@ -1,0 +1,6 @@
+- Lava Particles
+- Decoration sprites
+- White powerup on moving platforms, stars, and dark spots
+- Hitboxes on platforms
+- "Next" button set to right scene
+- Add more borders to avoid pruple background
